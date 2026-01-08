@@ -8,12 +8,12 @@ Here, you can find small, self-contained projects I produce on the side (in my f
 
 ## Examples
 
-- 🎮 (doom-notcurses)[https://github.com/ArnaudValette/doom-notcurses] — running Doom inside the terminal using notcurses
+- 🎮 [doom-notcurses](https://github.com/ArnaudValette/doom-notcurses) — running Doom inside the terminal using notcurses
 
-- ♟️ (checkers-notcurses)[https://github.com/ArnaudValette/checkers-notcurses] — a mouse-driven checkers game rendered in the terminal
+- ♟️ [checkers-notcurses](https://github.com/ArnaudValette/checkers-notcurses) — a mouse-driven checkers game rendered in the terminal
 
-- λ (lambda)[https://github.com/ArnaudValette/lambda] — a minimal lambda calculus lexer and parser in C
+- λ [lambda](https://github.com/ArnaudValette/lambda) — a minimal lambda calculus lexer and parser in C
 
-- 🧩 (Horn)[https://github.com/ArnaudValette/Horn] — experiments around parsing org.
+- 🧩 [Horn](https://github.com/ArnaudValette/Horn) — experiments around parsing org.
 
 I care about clarity, simple designs, and understanding trade-offs. Most of my projects are driven by curiosity rather than production goals.
