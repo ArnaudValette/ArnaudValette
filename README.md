@@ -1,4 +1,7 @@
 ## Hi, I'm Arnaud Valette
+
+![Banner](screenshots/banner.png)
+
 I’m a software developer interested in the full stack, with a strong preference for low-level and foundational topics. I particularly enjoy working in C, even though I also write a significant amount of TypeScript in practice.
 
 My interests sit at the intersection of systems programming, rendering, programming languages, and mathematics. 
