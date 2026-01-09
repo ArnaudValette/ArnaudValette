@@ -17,3 +17,8 @@ Here, you can find small, self-contained projects I produce on the side (in my f
 - 🧩 [Horn](https://github.com/ArnaudValette/Horn) — experiments around parsing org.
 
 I care about clarity, simple designs, and understanding trade-offs. Most of my projects are driven by curiosity rather than production goals.
+
+## Profiles
+
+- [ArnaudValette](https://github.com/ArnaudValette) 
+- [arvvva](https://github.com/arvvva)
