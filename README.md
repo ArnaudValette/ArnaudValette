@@ -24,4 +24,3 @@ I care about clarity, simple designs, and understanding trade-offs. Most of my p
 ## Profiles
 
 - [ArnaudValette](https://github.com/ArnaudValette) 
-- [arvvva](https://github.com/arvvva)
