@@ -21,6 +21,3 @@ Here, you can find small, self-contained projects I produce on the side (in my f
 
 I care about clarity, simple designs, and understanding trade-offs. Most of my projects are driven by curiosity rather than production goals.
 
-## Profiles
-
-- [ArnaudValette](https://github.com/ArnaudValette) 
